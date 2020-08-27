@@ -1,11 +1,10 @@
 # Netlify Culture
-If a company is as good as the team of people who work there, then a team is as good as it's culture.
+If a company is as good as the team of people who work there, then a team is as good as its culture.
 
 We aim to be as intentional as we can in how we scale our org and culture both. Here follows a short overview of our organizational philosophy and our values.
 
 ## Organizational philosophy
-We believe in a clearly defined org. In part because a completely flat org quickly becomes a place where whoever yells the loudest gets their way.
-And in part because we find it a primary way of setting up individuals for success. If someone at all times know what they are responsible for and - as importantly - what they aren't responsible for, and who in what cases have a final say, then it becomes a lot easier to prioritize your work. 
+We believe in a clearly defined org. In part because a completely flat org quickly becomes a place where whoever yells the loudest gets their way, and in part because we find it a primary way of setting up individuals for success. If someone at all times know what they are responsible for and - as importantly - what they aren't responsible for, and who in what cases have a final say, then it becomes a lot easier to prioritize your work. 
 
 Of course knowing what is expected of you, has to be married to the notion of The Best Idea Can Come From Anywhere. 
 
@@ -55,7 +54,7 @@ We aim to be intentional in our online communications whether it be Slack, email
 In HQ, we have 2 work from home days (Tuesdays and Thursday) every week. We do this to ensure that we work together with the remote part of the company as well as possible. 
 
 ## Some leadership is also distributed
-We have many leaders that are working remotely. Examples include VP of Marcom, Creative Director, Product Engineering manager, Head of Support.
+We have many leaders that are working remotely. Examples include VP of Marcom, Creative Director, Product Engineering Manager, and Head of Support.
 
 ## Career paths for everyone, not just the people in HQ.
 We're adamant in having a distributed culture and that also means having career paths for both IC's and managers all the way for remote team members no matter where in the world they are.
