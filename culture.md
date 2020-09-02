@@ -1,4 +1,4 @@
-# Netlify Culture
+# Netlify Culture test
 If a company is as good as the team of people who work there, then a team is as good as it's culture.
 
 We aim to be as intentional as we can in how we scale our org and culture both. Here follows a short overview of our organizational philosophy and our values.
